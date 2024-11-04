@@ -86,3 +86,8 @@ The analysis revealed that active customers contributed a total revenue of ₦82
 ### Recommendations
 ---
 
+### Conclusion
+---
+
+### Appendix
+---
