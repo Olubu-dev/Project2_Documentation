@@ -72,4 +72,11 @@ The xlsx file was converted to a csv file and  imported to SQL server environmen
   - Bar charts, line chart, tree map, donot chart, and cards was also used to visualize trends in the data
 
 ### Data Visualization
----
+---									
+![image](https://github.com/user-attachments/assets/4e17c83a-7b0e-40d1-839c-3a0671f51419)
+
+![image](https://github.com/user-attachments/assets/492b2810-0bb8-4df1-9842-84ee4e89c59f)
+
+![image](https://github.com/user-attachments/assets/2c5e3c37-b61a-4e1d-ad1d-d2479e2cce28)
+
+
