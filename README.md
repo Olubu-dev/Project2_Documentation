@@ -121,3 +121,5 @@ In conclusion, this analysis shows key areas for optimizing the subscription ser
 
 ![image](https://github.com/user-attachments/assets/df471cec-f984-4ba1-b18f-2885d1d5f95a)
 
+
+
