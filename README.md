@@ -85,9 +85,13 @@ The analysis revealed that active customers contributed a total revenue of ₦82
 
 ### Recommendations
 ---
+- To have specific offers and promotions at seasons like December in order to have consistent sales and stabilize revenue.
+- There should be marketing campaigns and special offers in the East region to maximize revenue and explore areas to improve on the revenue in other regions.
+- The service should timely observe the trends in the regions, monitor subscription types and adapt methods based on regional performance to enhance overall customer satisfaction.
 
 ### Conclusion
 ---
+In conclusion, this analysis shows key areas for optimizing the subscription service, enhanced offerings for the popular Basic subscription type, and focused marketing in high revenue regions. By addressing seasonal revenue dips and leveraging key insights, the subscription service can drive growth, reduce cancellations, and improve customer satisfaction across segments.
 
 ### Appendix
 ---
