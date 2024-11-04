@@ -95,3 +95,7 @@ In conclusion, this analysis shows key areas for optimizing the subscription ser
 
 ### Appendix
 ---
+![image](https://github.com/user-attachments/assets/7cc04865-c037-4bf9-b9b6-027d649d7582)
+
+![image](https://github.com/user-attachments/assets/df471cec-f984-4ba1-b18f-2885d1d5f95a)
+
