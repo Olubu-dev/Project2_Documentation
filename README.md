@@ -79,3 +79,6 @@ The xlsx file was converted to a csv file and  imported to SQL server environmen
 
 ![image](https://github.com/user-attachments/assets/eeca6757-996a-4a9a-95bb-40ff4cbe1537)
 
+### Key Findings
+---
+The analysis revealed that active customers contributed a total revenue of ₦82 million, with an average subscription duration of 365days. Subscription types varied, with Basic being the most popular (64%), followed by Premium and Standard (18% each). Revenue trends showed a peak at ₦15 million but fluctuated, ending the year at ₦7 million. Regionally, the East led with ₦37 million in revenue, while other regions generated ₦15 million each. Cancellation patterns were also irregular, with spikes in March and the third quarter. Revenue trends peaked at ₦15 million mid-year, closing at ₦7 million in December. Interactive slicers for subscription type, region, and cancellation status allowed a dynamic exploration of insights across the dashboard, adjusting visualizations in real-time for a comprehensive view of customer behavior.
