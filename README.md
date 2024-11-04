@@ -2,6 +2,28 @@
 
 ### Project Title: Customer Segmentation Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Key Findings](#key-findings)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
+
+[Appendix](#appendix)
+
 ### Project Overview
 ---
 This project aims to analyze the customer data for a subscription service to identify customer segments and uncover trends in subscription behavior.The goal is to optimize subscription offers,understand customers preferences, and improve overall service deliverables to customer based on the key insights by analyzing various parameters.By leveraging data-driven insights, the project seeks to enhance customer satisfaction within the subscription service.
