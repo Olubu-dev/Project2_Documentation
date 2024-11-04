@@ -37,3 +37,36 @@ This involves the exploration of the data to answer some basic questions about t
 - How does renewals compare to cancellations across different customer segments?
 - How do these segments differ in terms of revenue generated, subscription types, and cancellation rates?
 
+### Data Analysis
+---
+```Excel
+=SUMIF(C2:C75001,C2,H2:H75001)
+```
+```
+=AVERAGEIF(D2:D75001,D2,H2:H75001)
+```
+  1. Pivot tables was used to summarize total sales by product, region, and month;top selling products
+  2. Formulas was used to calculate metrics such as average revenue per product and total revenue by each region
+
+
+```SQL
+SELECT * FROM [dbo].[Project2]
+```
+The xlsx file was converted to a csv file and  imported to SQL server environment before creating a databasea and validating the following queries;
+  - 
+  - Retrieving the total number of customers from each region
+  - To find the most popular subscription type by number of customers
+  - To find customers who canceled their subscription within 6 months
+  - To calculate average subscription duration for all customers
+  - To find customers with subscription longer than 12  months
+  - To calculate revenue by subscription type
+  - To find top 3 regions by subscription cancellations
+  - To find the total number of active and canceled subscriptions
+
+- Power BI
+  Here, a dashboard was created to visualize the insights found in Excel and SQL which includes the following;
+  - Key customer segments
+  - Cancellation trends
+  - Subscription types and trends
+  - Slicers to filter the customer data to identify subscription trends based on cancellation status,region and subscription type.
+  - Bar charts, line chart, tree map, donot chart, and cards was also used to visualize trends in the data
