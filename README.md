@@ -70,3 +70,6 @@ The xlsx file was converted to a csv file and  imported to SQL server environmen
   - Subscription types and trends
   - Slicers to filter the customer data to identify subscription trends based on cancellation status,region and subscription type.
   - Bar charts, line chart, tree map, donot chart, and cards was also used to visualize trends in the data
+
+### Data Visualization
+---
